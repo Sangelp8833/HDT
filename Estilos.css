@@ -1,0 +1,60 @@
+body{
+
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.nav-link {
+    color: white;
+    font-size: 25px;
+}
+.cover{
+    height: 400px;
+    color:black;
+    background-image: url(./Hablemos\ de\ Trading.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    background-blend-mode: lighten;   
+}
+
+.cover-small{
+    height: 200px;
+    background-blend-mode: normal   ;
+}
+
+.card-title{
+    min-height: 8rem;
+}
+
+.card-text{
+    min-height: 12rem;
+}
+
+.card{
+      
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1 rgba(0, 0, 0, 0.1);
+}
+
+#msg{
+
+    height: 200px;
+    width: 400px;
+    background-image: url(./HDT_Mensajería.png);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+#Msg_title{
+    font-size: 30px;
+}
+
+#Q_T_H{
+    height: 400px;
+    color:black;
+    background-image: url(./HDT_Que\ es\ el\ trading.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    background-blend-mode: lighten;   
+}
